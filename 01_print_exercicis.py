@@ -16,3 +16,6 @@ print("Python", "és", "divertit", sep="-")
 
 # Exercici 3
 # Imprimeix el resultat de la suma 15 + 27
+suma = 15 + 27
+
+print(suma)
