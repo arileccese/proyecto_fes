@@ -5,12 +5,13 @@
 
 # Exercici 1
 # Imprimeix el teu nom i cognom a la consola
-# print("Arianna")
+print("Arianna")
 
 
 # Exercici 2
 # Imprimeix les paraules "Python", "és", "divertit" separades per un guió (-)
 # Pista: utilitza el paràmetre 'sep' de print()
+print("Python", "és", "divertit", sep="-")
 
 
 # Exercici 3
